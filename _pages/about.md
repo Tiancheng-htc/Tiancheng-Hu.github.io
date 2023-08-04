@@ -16,11 +16,11 @@ Feel free to contact me if you are interested in me or want to talk with me.
 
 [Email](mailto:u202012050@hust.edu.cn)
 
-### Publication 
+# Publication 
 
-#### Conference
+### Conference
 
-- [**Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree**]([Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree | Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis](https://dl.acm.org/doi/10.1145/3597926.3598040))
+- [**Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree**](https://dl.acm.org/doi/10.1145/3597926.3598040))
 
   by **Tiancheng Hu**, Zijing Xu, Yilin Fang, Yueming Wu, Bin Yuan, Deqing Zou, Hai Jin
 
