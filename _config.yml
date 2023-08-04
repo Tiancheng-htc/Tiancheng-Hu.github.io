@@ -11,9 +11,9 @@ title                    : "Tiancheng Hu(胡天成)"
 title_separator          : "-"
 name                     : &name "Tiancheng Hu"
 description              : &description "personal description"
-url                      : https://mytamer.github.io/Tiancheng-Hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Tiancheng-htc.github.io/Tiancheng-Hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MyTamer/Tiancheng-Hu.github.io"
+repository               : "Tiancheng-htc/Tiancheng-Hu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/MyTamer"
+  github           : "https://github.com/Tiancheng-htc"
   google_plus      :
   keybase          :
   instagram        :
