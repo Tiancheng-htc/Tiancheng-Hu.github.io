@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a fourth year undergraduate student from Huazhong University of Science and Technology (UCAS). I am generally interested in software engineering and system software.
+I’m a fourth year undergraduate student from Huazhong University of Science and Technology (HUST). I am generally interested in software engineering and system software.
 
 I will become a phd student of Peking University after graduating from HUST next year. I am very fortunate to be co-advised by Prof.Tao Xie of Peking University, PKU and Prof.Chenxi Wang of Institute of Computing Technology, CAS.
 
