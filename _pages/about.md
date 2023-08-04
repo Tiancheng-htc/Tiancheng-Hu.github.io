@@ -20,8 +20,6 @@ Feel free to contact me if you are interested in me or want to talk with me.
 
 ### Conference
 
-- [**Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree**](https://dl.acm.org/doi/10.1145/3597926.3598040))
-
+- [**Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree**](https://dl.acm.org/doi/10.1145/3597926.3598040)
   by **Tiancheng Hu**, Zijing Xu, Yilin Fang, Yueming Wu, Bin Yuan, Deqing Zou, Hai Jin
-
-​    Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2023
+  Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2023
