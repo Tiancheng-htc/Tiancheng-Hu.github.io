@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tiancheng Hu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "An undergraduate student from HUST"
   location         : "Wuhan, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://mytamer.github.io"
+  github           : "https://github.com/MyTamer"
   google_plus      :
   keybase          :
   instagram        :
