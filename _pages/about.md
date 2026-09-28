@@ -14,7 +14,7 @@ I’m a third-year Ph.D. student at Peking University (PKU), advised by Prof. Ta
 My research focuses on **GPU systems and efficient AI infrastructure**, with an emphasis on resource management, heterogeneous computing, and communication for AI workloads.
 
 - **GPU scheduling and sharing:** microsecond-scale preemption for SLO-oriented GPU sharing ([Hummingbird](https://arxiv.org/abs/2601.04071)).
-- **Heterogeneous GPU computing:** kernel-granularity disaggregation for efficient large-model inference ([Tessera](https://arxiv.org/abs/2604.10180)).
+- **Heterogeneous GPU computing:** kernel-granularity disaggregation for efficient large-model inference ([FluidGPU](https://arxiv.org/abs/2604.10180)).
 - **Communication for AI systems:** fabric-native communication for production supernodes ([StrataCL](https://arxiv.org/abs/2607.26444)).
 - **Efficient LLM inference:** position-independent KV caching and reasoning-aware sparse attention ([EPIC](https://arxiv.org/abs/2410.15332), [RaaS](https://aclanthology.org/2025.findings-acl.131/), and [Lil](https://aclanthology.org/2026.findings-acl.91/)).
 
