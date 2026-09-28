@@ -22,7 +22,7 @@ My earlier work explored fine-grained code clone detection in software engineeri
 
 If you are interested in collaborating with me, please feel free to contact me.
 
-[Email](mailto:tiancheng.hu@stu.pku.edu.cn) (tiancheng.hu@stu.pku.edu.cn) · [Google Scholar]({{ site.author.googlescholar }})
+[Email](mailto:tiancheng.hu@stu.pku.edu.cn) (tiancheng.hu@stu.pku.edu.cn)
 
 # Publications
 
