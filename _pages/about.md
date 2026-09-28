@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year Ph.D. student at Peking University (PKU), co-advised by Prof. Tao Xie at Peking University and Prof. Chenxi Wang at the Institute of Computing Technology, Chinese Academy of Sciences.
-
+I’m a third-year Ph.D. student at Peking University (PKU), advised by Prof. Tao Xie.
 # Research
 
 My research focuses on **GPU systems and efficient AI infrastructure**, with an emphasis on resource management, heterogeneous computing, and communication for AI workloads.
