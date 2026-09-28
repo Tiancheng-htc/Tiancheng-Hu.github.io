@@ -8,21 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I’m a second-year Ph.D. student from Peking University (PKU). I am very fortunate to be co-advised by Prof.Tao Xie of Peking University, PKU, and Prof.Chenxi Wang of the Institute of Computing Technology, CAS. 
+I’m a third-year Ph.D. student at Peking University (PKU), co-advised by Prof. Tao Xie at Peking University and Prof. Chenxi Wang at the Institute of Computing Technology, Chinese Academy of Sciences.
 
 # Research
 
-## Operating system for GPUs
-The rapid evolution of AI workloads has driven an unprecedented demand for GPUs in datacenters, making efficient utilization and cost reduction critically important. However, it is challenging to meet the diverse performance requirements of individual AI models while simultaneously optimizing resource usage. My research focuses on building operating system–level support for GPUs to enable transparent, fine-grained resource management. First, I designed a high-performance GPU sharing runtime that supports microsecond-scale task preemption and memory swapping, allowing workloads to share GPU resources with minimal overhead dynamically. Second, I developed efficient task scheduling and communication mechanisms for heterogeneous GPU clusters, significantly improving overall utilization while reducing operational costs. 
+My research focuses on **GPU systems and efficient AI infrastructure**, with an emphasis on resource management, heterogeneous computing, and communication for AI workloads.
+
+- **GPU scheduling and sharing:** microsecond-scale preemption for SLO-oriented GPU sharing ([Hummingbird](https://arxiv.org/abs/2601.04071)).
+- **Heterogeneous GPU computing:** kernel-granularity disaggregation for efficient large-model inference ([Tessera](https://arxiv.org/abs/2604.10180)).
+- **Communication for AI systems:** fabric-native communication for production supernodes ([StrataCL](https://arxiv.org/abs/2607.26444)).
+- **Efficient LLM inference:** position-independent KV caching and reasoning-aware sparse attention ([EPIC](https://arxiv.org/abs/2410.15332), [RaaS](https://aclanthology.org/2025.findings-acl.131/), and [Lil](https://aclanthology.org/2026.findings-acl.91/)).
+
+My earlier work explored fine-grained code clone detection in software engineering.
 
 If you are interested in collaborating with me, please feel free to contact me.
 
-[Email](mailto:tiancheng.hu@stu.pku.edu.cn) (tiancheng.hu@stu.pku.edu.cn)
+[Email](mailto:tiancheng.hu@stu.pku.edu.cn) (tiancheng.hu@stu.pku.edu.cn) · [Google Scholar]({{ site.author.googlescholar }})
 
-# Publication 
+# Publications
 
-## Conference
+{% include publications-list.md %}
 
-- [**Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree**](https://dl.acm.org/doi/10.1145/3597926.3598040)
-  by **Tiancheng Hu**, Zijing Xu, Yilin Fang, Yueming Wu, Bin Yuan, Deqing Zou, Hai Jin
-  Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2023
+# Talks
+
+{% include talks-list.md %}

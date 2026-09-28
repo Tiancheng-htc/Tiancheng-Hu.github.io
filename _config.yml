@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Wuhan, China"
+locale                   : "en-US"
 title                    : "Tiancheng Hu(胡天成)"
 title_separator          : "-"
 name                     : &name "Tiancheng Hu"
-description              : &description "personal description"
+description              : &description "Tiancheng Hu, a third-year Ph.D. student at Peking University working on GPU systems and efficient AI infrastructure."
 url                      : https://Tiancheng-htc.github.io/Tiancheng-Hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tiancheng-htc/Tiancheng-Hu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tiancheng Hu"
   avatar           : "profile.png"
-  bio              : "An undergraduate student from HUST"
-  location         : "Wuhan, China"
+  bio              : "Third-year Ph.D. student at Peking University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=OLrDAP4AAAAJ&hl=en"
+  email            : "tiancheng.hu@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Tiancheng-htc"
+  github           : "Tiancheng-htc"
   google_plus      :
   keybase          :
   instagram        :
